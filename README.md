@@ -16,3 +16,6 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 
 #Kaggle version (which could be more clear) of the project can be found here:
 https://www.kaggle.com/poyiliu/top15-foundation-building-demo-for-beginners
+
+#If the output of ipynb is not showing, post the URL on the view:
+https://nbviewer.jupyter.org
