@@ -6,7 +6,7 @@ There are definitely a lot more could be investigated, please feel free reach ou
 The job is to predict the sales of given info about the houses. You will be able to do so by exploring the training set, which contains 1,400+ data and 80+ features.
 
 #Challenge:
-The features are really complicated and a lot of them are not independent. So it is important to figure out which feature can contribute the most info for our objective.
+The features are complicated and a lot of them are not independent. So it is important to figure out which feature can contribute the most info for our objective.
 Furthermore, typical problems including missing values, extreme values, wrong datatype, dimension reduction, high skewness could be found in this data.
 Therefore, it is a nice project to startout practicing EDA and data processing.
 
