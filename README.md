@@ -11,7 +11,7 @@ Furthermore, typical problems including missing values, extreme values, wrong da
 Therefore, it is a nice project to startout practicing EDA and data processing.
 
 #Data Resource:
-This is a open source data, and more information could be found at the kaggle website:
+This is an open source dataset, and more information could be found at the kaggle website:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 
 #Kaggle version (which could be more clear) of the project can be found here:
